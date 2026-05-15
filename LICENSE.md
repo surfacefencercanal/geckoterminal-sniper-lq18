@@ -1,4 +1,4 @@
-# 
+# custom geckoterminal sniper bot | dex-sniping + pump-detection offers the most advanced geckoterminal sniper bot, with dex-sniping and pump-detection. Ideal for professional MEV
 
 
 
